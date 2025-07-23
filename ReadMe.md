@@ -7,13 +7,13 @@ A lightweight and reusable React hook for throttling function calls in React app
 ## 🚀 Installation
 
 ```bash
-npm install react-throttle
+npm install @ehsaneha/react-throttle
 ```
 
 or
 
 ```bash
-yarn add react-throttle
+yarn add @ehsaneha/react-throttle
 ```
 
 ---
@@ -22,7 +22,7 @@ yarn add react-throttle
 
 ```tsx
 import React, { useState } from "react";
-import { useThrottle } from "react-throttle";
+import { useThrottle } from "@ehsaneha/react-throttle";
 
 const ScrollLogger = () => {
   const throttledLog = useThrottle((val: string) => {
