@@ -84,13 +84,9 @@ Tested with `@testing-library/react` and `jest`. Includes:
 
 ## ✨ Author
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
-
-```
+Made with ❤️ by [ehsaneha](https://github.com/ehsaneha)
 
 ---
-
-```
 
 ## License
 
