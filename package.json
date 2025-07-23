@@ -1,6 +1,6 @@
 {
   "name": "@ehsaneha/react-throttle",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "useThrottle is a custom React hook that limits how often a function can be called by ensuring it's invoked at most once within a specified delay period.",
   "main": "dist/index.js",
   "scripts": {

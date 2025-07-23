@@ -95,7 +95,3 @@ This package is licensed under the MIT License. See LICENSE for more information
 ---
 
 Feel free to modify or contribute to this package!
-
-```
-
-```
