@@ -10,8 +10,6 @@ A lightweight and reusable React hook for throttling function calls in React app
 npm install react-throttle
 ```
 
-````
-
 or
 
 ```bash
@@ -94,7 +92,6 @@ Made with ❤️ by [Your Name](https://github.com/yourusername)
 
 ```
 
-
 ## License
 
 This package is licensed under the MIT License. See LICENSE for more information.
@@ -104,4 +101,5 @@ This package is licensed under the MIT License. See LICENSE for more information
 Feel free to modify or contribute to this package!
 
 ```
-````
+
+```
